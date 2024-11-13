@@ -1,1 +1,1 @@
-# Adaptive-Lesson-1
+Пример проекта: https://einzelstreife.github.io/Adaptive-Lesson-1/
